@@ -1,0 +1,36 @@
+1. Acquire
+    a. Dataset A
+
+2. Clean:
+    a. for Dataset A
+        i. remove column X
+
+3. Integrate:
+    a. Combine J data with K data based on __
+
+4. Analyze:
+    a. Quantitative Analysis:
+    Calculate descriptive statistics on language vitality, platform usage, and language popularity on social media.
+    Explore correlations between language endangerment, platform popularity, and language usage on social media.
+
+    b. Temporal Trends Analysis:
+    Visualize temporal trends in language vitality, platform usage, and language popularity on social media.
+    Look for patterns or shifts over time.
+
+    c. Geospatial Analysis:
+    Utilize geospatial visualizations to map language vitality and social media platform usage across regions.
+
+6. Interpret:
+    a. Draw Conclusions:
+    Summarize key findings and insights.
+    Discuss correlations, trends, and potential causal relationships.
+
+    b. Discuss Implications:
+    Explore the implications of social media on language vitality.
+    Consider how language communities may adapt or change based on digital communication trends.
+
+7. Present:
+    Document sources and any limitations.
+    Create a presentation to convey findings
+    Emphasize the significance and relevance of the results
+    Consider ethical issues
