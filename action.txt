@@ -1,5 +1,8 @@
 1. Acquire
-    a. Dataset A
+    a. Reddit Users
+    b. YouTube Users
+    c. TikTok Users
+    d. Endangered Users
 
 2. Clean:
     a. for Dataset A
